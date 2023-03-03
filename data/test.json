@@ -1,0 +1,110 @@
+[
+
+    {
+        "id" : 1,
+        "description" : "En produktbeskrivelse er en tekst, man har ved sine produkter. Den fungerer som en form for salgstekst, der skal beskrive, forklare og gøre rede for, hvad de givne produkter kan, hvad de er lavet af og hvordan de bl.a. skal vedligeholdes. Formålet med en produktbeskrivelse er, at den skal give de besøgende de nødvendige informationer omkring produktet, som i sidste ende forhåbentlig vil resultere i en konvertering.",
+        "name" : "Product 1",
+        "image" : "https://picsum.photos/300/300?1",
+        "price" : 230,
+        "details" : {
+            "images" : [
+                "https://picsum.photos/768/400?10",
+                "https://picsum.photos/768/400?11",
+                "https://picsum.photos/768/400?12",
+                "https://picsum.photos/768/400?13"
+            ],
+            "product-sheet" : "",
+            "inStock" : true,
+            "tags" : ["new"] 
+        }
+    },
+    {
+        "id" : 2,
+        "description" : "En produktbeskrivelse er en tekst, man har ved sine produkter. Den fungerer som en form for salgstekst, der skal beskrive, forklare og gøre rede for, hvad de givne produkter kan, hvad de er lavet af og hvordan de bl.a. ",
+        "name" : "Product 2",
+        "image" : "https://picsum.photos/300/300?2",
+        "price" : 130,
+        "details" : {
+            "images" : [
+                "https://picsum.photos/768/400?20",
+                "https://picsum.photos/768/400?21",
+                "https://picsum.photos/768/400?22",
+                "https://picsum.photos/768/400?23"
+            ],
+            "product-sheet" : "",
+            "inStock" : true,
+            "tags" : ["new"]
+        }
+    },
+    {
+        "id" : 3,
+        "description" : "En produktbeskrivelse er en tekst, man har ved sine produkter. Den fungerer som en form for salgstekst, der skal beskrive, forklare og gøre rede for, hvad de givne produkter kan, hvad de er lavet af og hvordan de bl.a. skal vedligeholdes. Formålet med en produktbeskrivelse er, at den skal give de besøgende de nødvendige informationer omkring produktet, som i sidste ende forhåbentlig vil resultere i en konvertering.",
+        "name" : "Product 3",
+        "image" : "https://picsum.photos/300/300?3",
+        "price" : 130,
+        "details" : {
+            "images" : [
+                "https://picsum.photos/768/400?30",
+                "https://picsum.photos/768/400?31",
+                "https://picsum.photos/768/400?32",
+                "https://picsum.photos/768/400?33"
+            ],
+            "product-sheet" : "",
+            "inStock" : true,
+            "tags" : ["new"]
+        }
+    }, {
+        "id" : 1,
+        "description" : "En produktbeskrivelse er en tekst, man har ved sine produkter. Den fungerer som en form for salgstekst, der skal beskrive, forklare og gøre rede for, hvad de givne produkter kan, hvad de er lavet af og hvordan de bl.a. skal vedligeholdes. Formålet med en produktbeskrivelse er, at den skal give de besøgende de nødvendige informationer omkring produktet, som i sidste ende forhåbentlig vil resultere i en konvertering.",
+        "name" : "Product 1",
+        "image" : "https://picsum.photos/300/300?1",
+        "price" : 230,
+        "details" : {
+            "images" : [
+                "https://picsum.photos/768/400?10",
+                "https://picsum.photos/768/400?11",
+                "https://picsum.photos/768/400?12",
+                "https://picsum.photos/768/400?13"
+            ],
+            "product-sheet" : "",
+            "inStock" : true,
+            "tags" : ["new"] 
+        }
+    },
+    {
+        "id" : 2,
+        "description" : "En produktbeskrivelse er en tekst, man har ved sine produkter. Den fungerer som en form for salgstekst, der skal beskrive, forklare og gøre rede for, hvad de givne produkter kan, hvad de er lavet af og hvordan de bl.a. ",
+        "name" : "Product 2",
+        "image" : "https://picsum.photos/300/300?2",
+        "price" : 130,
+        "details" : {
+            "images" : [
+                "https://picsum.photos/768/400?20",
+                "https://picsum.photos/768/400?21",
+                "https://picsum.photos/768/400?22",
+                "https://picsum.photos/768/400?23"
+            ],
+            "product-sheet" : "",
+            "inStock" : true,
+            "tags" : ["new"]
+        }
+    },
+    {
+        "id" : 3,
+        "description" : "En produktbeskrivelse er en tekst, man har ved sine produkter. Den fungerer som en form for salgstekst, der skal beskrive, forklare og gøre rede for, hvad de givne produkter kan, hvad de er lavet af og hvordan de bl.a. skal vedligeholdes. Formålet med en produktbeskrivelse er, at den skal give de besøgende de nødvendige informationer omkring produktet, som i sidste ende forhåbentlig vil resultere i en konvertering.",
+        "name" : "Product 3",
+        "image" : "https://picsum.photos/300/300?3",
+        "price" : 130,
+        "details" : {
+            "images" : [
+                "https://picsum.photos/768/400?30",
+                "https://picsum.photos/768/400?31",
+                "https://picsum.photos/768/400?32",
+                "https://picsum.photos/768/400?33"
+            ],
+            "product-sheet" : "",
+            "inStock" : true,
+            "tags" : ["new"]
+        }
+    }
+]
